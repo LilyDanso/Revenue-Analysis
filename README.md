@@ -1,4 +1,4 @@
-## COURSE REVENUE ANALYSIS
+## EDUCATIVE ONLINE COURSES ANALYSIS
 
 ### Table of Content
 - [Project overview](Project-overview)
