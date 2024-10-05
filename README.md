@@ -13,8 +13,8 @@
 
 
 #### Project overview
-This data analysis project aims to provide insights into the performance of courses offered by Educative- an Education Tech Company
-and identify areas with growth potential, and come up with a data-driven strategy to increase next quarter's revenue.
+This project aims to provide insights into the performance of courses offered by Educative- an Education Tech Company
+that offers a variety of online courses and identify areas with growth potential, come up with a data-driven strategy to increase next quarter's revenue.
 
 
 ![Screenshot (9)](https://github.com/LilyDanso/Revenue-Analysis/assets/157654354/4da5630b-987f-4a61-b980-11b1beb0a4eb)
@@ -82,7 +82,7 @@ The result of this analysis are summarized as follows:
 
 #### Recommendations
 
-Based on the findings of this this analysis, the following recomendations where given;
+Based on the findings of this analysis, the following recomendations where given;
 1. There should be an Allocation of additional funds for comprehensive market research to 
 understand evolving trends and learner preferences. Tailoring marketing strategies to 
 effectively communicate the value of courses, addressing the identified lack of 
